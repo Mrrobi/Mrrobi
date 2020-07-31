@@ -3,7 +3,7 @@
 </div>
 <br>
 <br>
-# <p style="font-family:'Monaco'">Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:). </p>
+# Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:).
 <br>
 
 
