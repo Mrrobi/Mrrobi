@@ -33,7 +33,7 @@
       LFR ( Course DLD)
     </td>
     <td>
-      [Numerical Simulator](https://github.com/Mrrobi/NumericalMethodsSimulator)
+      ![Numerical Simulator](https://github.com/Mrrobi/NumericalMethodsSimulator)
     </td>
     <td>
       Self Interest Hardware Projects
