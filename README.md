@@ -1,5 +1,4 @@
-<div style="text-align:center"> <img " alt="GIF" width='40%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
-  </div>
+<div style="text-align:center" > <img alt="GIF" width='40%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" /></div>
 <!--
 **Mrrobi/Mrrobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
