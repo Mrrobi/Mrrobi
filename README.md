@@ -77,7 +77,9 @@
  ## Work <img src="https://img.icons8.com/plasticine/20/000000/work.png"/>
  * Undergraduate Teaching Assistant (UTA) @ UIU
  * Associate Webmaster @ UIURC
-
+ ## Interest <img src="https://img.icons8.com/doodle/25/000000/light-on.png"/>
+ * Machine Learning <img src="https://img.icons8.com/ios/28/000000/machine-learning.png"/>
+ * Gaming <img src="https://img.icons8.com/color/28/000000/razer.png"/>
 
 
 
