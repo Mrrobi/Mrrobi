@@ -32,13 +32,13 @@
     <td>
       LFR ( Course DLD)
     </td>
-    <td>
-      
-      [Numerical Simulator](https://github.com/Mrrobi/NumericalMethodsSimulator)
-    
+    <td> 
+      <a target = "https://github.com/Mrrobi/NumericalMethodsSimulator" > Humerical Simulator </a>
     </td>
     <td>
       Self Interest Hardware Projects
     </td>
   </tr>
  </table>
+ 
+ 
