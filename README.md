@@ -33,10 +33,10 @@
       LFR ( Course DLD)
     </td>
     <td> 
-      <a target="_blank" href="https://github.com/Mrrobi/NumericalMethodsSimulator" > Humerical Simulator </a>
+      <a target="_blank" href="https://github.com/Mrrobi/NumericalMethodsSimulator" > Numerical Simulator </a>
     </td>
     <td>
-      Self Interest Hardware Projects
+      <a target="_blank" href="https://docs.google.com/document/d/13RbR6xm0JFc6pIlJTuPj0xQWRjdEwPCIfx84VTgBNxg/edit?usp=sharing" > Ada </a>
     </td>
   </tr>
  </table>
