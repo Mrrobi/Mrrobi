@@ -77,3 +77,14 @@
  ## Work <img src="https://img.icons8.com/plasticine/20/000000/work.png"/>
  * Undergraduate Teaching Assistant (UTA) @ UIU
  * Associate Webmaster @ UIURC
+
+
+
+
+###
+
+<div align="center">
+    
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=Mrrobi&show_icons=true&theme=dracula"> 
+       
+</div> 
