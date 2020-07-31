@@ -3,6 +3,22 @@
 </div>
 
 ### Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:).
+<div align = "center" > <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
+        <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
+      </a>
+       &nbsp; &nbsp;
+      <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
+        <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
+      </a>
+      &nbsp; &nbsp;
+      <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
+        <img src="https://image.flaticon.com/icons/svg/725/725337.svg" width="20px">
+      </a>
+      &nbsp; &nbsp;
+      <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
+        <img src="https://image.flaticon.com/icons/svg/1014/1014650.svg" width="20px">
+      </a>  
+  </div>
 
 ## Things I know
 * Programming -> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
@@ -88,19 +104,5 @@
 <div align="center">
     
    <image align="center" src="https://github-readme-stats.vercel.app/api?username=Mrrobi&show_icons=true&theme=dracula"> <br>
-    <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
-        <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
-      </a>
-       &nbsp; &nbsp;
-      <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
-        <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
-      </a>
-      &nbsp; &nbsp;
-      <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
-        <img src="https://image.flaticon.com/icons/svg/725/725337.svg" width="20px">
-      </a>
-      &nbsp; &nbsp;
-      <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
-        <img src="https://image.flaticon.com/icons/svg/1014/1014650.svg" width="20px">
-      </a>    
+      
 </div> 
