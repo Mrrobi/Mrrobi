@@ -2,7 +2,7 @@
   <img alt="GIF" width='30%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
 </div>
 
-<p style="font-family:'Courier New'">I am Robiuddin Robi. Currently pursuying my undergraduate degree in Computer Science and Engineering from United International University(UIU)</p>
+<p style="font-family:'Monaco'">I am Robiuddin Robi. Currently pursuying my undergraduate degree in Computer Science and Engineering from United International University(UIU)</p>
 
 <!--
 **Mrrobi/Mrrobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
