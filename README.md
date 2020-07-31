@@ -2,8 +2,11 @@
   <img alt="GIF" width='30%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
 </div>
 
-### Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:).
-<div align = "center" > <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
+
+<div align = "center" > 
+  <b> Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:). </b>
+    <br>
+    <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
         <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
       </a>
        &nbsp; &nbsp;
