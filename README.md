@@ -36,7 +36,7 @@
       <img src="https://img.icons8.com/material-rounded/24/000000/github.png"/><a target="_blank" href="https://github.com/Mrrobi/NumericalMethodsSimulator" > Numerical Simulator </a>
     </td>
     <td>
-      <a target="_blank" href="https://docs.google.com/document/d/13RbR6xm0JFc6pIlJTuPj0xQWRjdEwPCIfx84VTgBNxg/edit?usp=sharing" > Ada </a>
+      <img src="https://img.icons8.com/color/24/000000/google-docs.png"/><a target="_blank" href="https://docs.google.com/document/d/13RbR6xm0JFc6pIlJTuPj0xQWRjdEwPCIfx84VTgBNxg/edit?usp=sharing" > Ada </a>
     </td>
   </tr>
   <tr>
