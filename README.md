@@ -70,3 +70,10 @@
  </table>
  
  
+ ## I was associate with 
+ * Volunteering <img src="https://img.icons8.com/nolan/48/volunteering.png"/>
+ * UIU Robotics Club
+ 
+ ## Work <img src="https://img.icons8.com/plasticine/50/000000/work.png"/>
+ * Undergraduate Teaching Assistant (UTA) @ UIU
+ * Associate Webmaster @ UIURC
