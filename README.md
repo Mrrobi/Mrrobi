@@ -25,4 +25,18 @@
       Self Interest Hardware Projects
     </td>
   </tr>
+  <tr>
+    <td>
+      Sparton (Course APL) 
+    </td>
+    <td>
+      LFR ( Course DLD)
+    </td>
+    <td>
+      [Numerical Simulator](https://github.com/Mrrobi/NumericalMethodsSimulator)
+    </td>
+    <td>
+      Self Interest Hardware Projects
+    </td>
+  </tr>
  </table>
