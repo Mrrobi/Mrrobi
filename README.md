@@ -11,18 +11,18 @@
 * Hardware -> <img src="https://img.icons8.com/color/48/000000/arduino.png"/><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
 ## Things I have done
 <table>
-  <td>
-    <tr>
+  <tr>
+    <td>
       Course Based Software Projects
-    </tr>
-    <tr>
+    </td>
+    <td>
       Course Based Hardware Projects
-    </tr>
-    <tr>
+    </td>
+    <td>
       Self Interest Software Projects
-    </tr>
-    <tr>
+    </td>
+    <td>
       Self Interest Hardware Projects
-    </tr>
-  </td>
+    </td>
+  </tr>
  </table>
