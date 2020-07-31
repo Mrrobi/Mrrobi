@@ -2,7 +2,7 @@
   <img alt="GIF" width='30%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
 </div>
 
-<p style="font-family:'Monaco'">Welcome to my github profile. I am a undergraduate student from :bangladesh:Bangladesh </p>
+<p style="font-family:'Monaco'">Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:)</p>
 
 <!--
 **Mrrobi/Mrrobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
