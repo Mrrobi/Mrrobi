@@ -5,4 +5,4 @@
 ### Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:).
 
 # Things I know
-* Programming <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <p> &nbsp </p> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+* Programming <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <p> &nbsp; </p> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
