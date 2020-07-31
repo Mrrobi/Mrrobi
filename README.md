@@ -1,7 +1,8 @@
-<div align = "center" margin-bottom = "3cm" >
+<div align = "center" >
   <img alt="GIF" width='30%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
 </div>
-
+<br>
+<br>
 <p style="font-family:'Monaco'">Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:)</p>
 
 <!--
