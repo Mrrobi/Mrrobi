@@ -33,7 +33,7 @@
       LFR ( Course DLD)
     </td>
     <td> 
-      <a target = "https://github.com/Mrrobi/NumericalMethodsSimulator" > Humerical Simulator </a>
+      <a target="_blank" href="https://github.com/Mrrobi/NumericalMethodsSimulator" > Humerical Simulator </a>
     </td>
     <td>
       Self Interest Hardware Projects
