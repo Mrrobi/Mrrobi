@@ -47,10 +47,10 @@
       <img src="https://img.icons8.com/fluent/16/000000/youtube-play.png"/><a target="_blank" href="https://youtu.be/p7NrITaashc" > BlindStick  </a>
     </td>
     <td> 
-      <a target="_blank" href="https://github.com/Mrrobi/NumericalMethodsSimulator" > Numerical Simulator </a>
+       <img src="https://img.icons8.com/material-rounded/24/000000/github.png"/><a target="_blank" href="https://github.com/Mrrobi/UIUPortal2" > UIU Portal </a> An android app
     </td>
     <td>
-      <a target="_blank" href="https://docs.google.com/document/d/13RbR6xm0JFc6pIlJTuPj0xQWRjdEwPCIfx84VTgBNxg/edit?usp=sharing" > Ada </a>
+      <img src="https://img.icons8.com/material-rounded/24/000000/github.png"/><a target="_blank" href="https://github.com/Mrrobi/Home-Auto" > Home Auto </a>
     </td>
   </tr>
  </table>
