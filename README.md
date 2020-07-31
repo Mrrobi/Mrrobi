@@ -9,3 +9,20 @@
 * Web -> <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 * Database -> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
 * Hardware -> <img src="https://img.icons8.com/color/48/000000/arduino.png"/><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
+## Things I have done
+<table>
+  <td>
+    <tr>
+      Course Based Software Projects
+    </tr>
+    <tr>
+      Course Based Hardware Projects
+    </tr>
+    <tr>
+      Self Interest Software Projects
+    </tr>
+    <tr>
+      Self Interest Hardware Projects
+    </tr>
+  </td>
+ </table>
