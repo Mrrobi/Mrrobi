@@ -1,4 +1,4 @@
-<div align = "center" >
+<div align = "center" style="margin-bottom:3cm;" >
   <img alt="GIF" width='30%' src="https://github.com/Mrrobi/Mrrobi/blob/master/img/hello.gif" />
 </div>
 
