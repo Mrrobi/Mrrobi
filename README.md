@@ -6,10 +6,10 @@
 <div align = "center" > 
   <br>
   <br>
-  <b> Welcome to my github profile. I am a undergraduate student from  Bangladesh(:bangladesh:). </b>
+  <b> Welcome to my github profile. I am a cse graduate from  Bangladesh(:bangladesh:). </b>
     <br>
-    <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
-        <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
+    <a target="_blank" href="https://www.researchgate.net/profile/Md-Robiuddin">
+        <img src="https://image.flaticon.com/icons/png/24/168/168787.png" width="20px">
       </a>
        &nbsp; &nbsp;
       <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
