@@ -106,6 +106,18 @@
 
 ###
 
+---
+
+<div align="center">  
+     <h2>🏆 Github Trophies 🏆</h2> <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mrrobi&theme=onedark"/>   
+</div>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Mrrobi&color=c03546)
+
+---
 <div align="center">
     
    <image align="center" src="https://github-readme-stats.vercel.app/api?username=Mrrobi&show_icons=true&theme=dracula"> <br>
