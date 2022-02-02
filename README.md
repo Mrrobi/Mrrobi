@@ -123,3 +123,5 @@
    <image align="center" src="https://github-readme-stats.vercel.app/api?username=Mrrobi&show_icons=true&theme=dracula"> <br>
       
 </div> 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="robiuddinrobi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/robiuddinrobi?trk=profile-badge">Robiuddin Robi</a></div>
+              
