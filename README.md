@@ -96,6 +96,7 @@
  * UIU Robotics Club
  
  ## Work <img src="https://img.icons8.com/plasticine/20/000000/work.png"/>
+ * Machine Learning Engineer @ Softwrd Ltd
  * Undergraduate Teaching Assistant (UTA) @ UIU
  * Associate Webmaster @ UIURC
  ## Interest <img src="https://img.icons8.com/doodle/25/000000/light-on.png"/>
