@@ -7,22 +7,7 @@
   <br>
   <br>
   <b> Welcome to my github profile. I am a cse graduate from  Bangladesh(:bangladesh:). </b>
-    <br>
-    <a target="_blank" href="https://www.researchgate.net/profile/Md-Robiuddin">
-        <img src="https://image.flaticon.com/icons/png/24/168/168787.png" width="20px">
-      </a>
-       &nbsp; &nbsp;
-      <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
-        <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
-      </a>
-      &nbsp; &nbsp;
-      <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
-        <img src="https://image.flaticon.com/icons/svg/725/725337.svg" width="20px">
-      </a>
-      &nbsp; &nbsp;
-      <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
-        <img src="https://image.flaticon.com/icons/svg/1014/1014650.svg" width="20px">
-      </a>  
+    <br> 
   </div>
 
 ## Things I know
