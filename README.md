@@ -9,6 +9,12 @@
   <b> Welcome to my github profile. I am a cse graduate from  Bangladesh(:bangladesh:). </b>
     <br> 
   </div>
+  
+  <p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=twyle&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## Things I know
 * Programming -> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
