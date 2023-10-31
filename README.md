@@ -11,9 +11,7 @@
   </div>
   
   <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Robi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrrobi&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mrrobi&theme=dark&hide_border=true&exclude_days=Fri%2CSat&fire=EB5454" alt="GitHub Streak" /></a>
 </p>
 
 ## Things I know
