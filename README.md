@@ -86,14 +86,26 @@
  * UIU Robotics Club
  
  ## Work <img src="https://img.icons8.com/plasticine/20/000000/work.png"/>
- * Machine Learning Engineer @ Softwrd Ltd
+ * Senior Data Engineer @ Softwrd Ltd
+ * Instractor @ CDIP UIU
  * Undergraduate Teaching Assistant (UTA) @ UIU
- * Associate Webmaster @ UIURC
  ## Interest <img src="https://img.icons8.com/doodle/25/000000/light-on.png"/>
  * Machine Learning <img src="https://img.icons8.com/ios/28/000000/machine-learning.png"/>
  * Gaming <img src="https://img.icons8.com/color/28/000000/razer.png"/>
 
+## My Top PyPI Projects
 
+  ### [Softwrdwrangler](https://pypi.org/project/softwrdwrangler/)
+  [![PyPI version](https://img.shields.io/pypi/v/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
+  [![Downloads](https://img.shields.io/pypi/dm/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
+  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/softwrdwrangler)
+  - a Python package designed to simplify and streamline operations on various AWS resources, primarily focusing on S3. It offers utilities for reading and writing different file formats and managing S3 objects efficiently..
+
+  ### [Panclassif](https://pypi.org/project/panclassif/)
+  [![PyPI version](https://img.shields.io/pypi/v/panclassif.svg)](https://pypi.org/project/panclassif/)
+  [![Downloads](https://img.shields.io/pypi/dm/panclassif.svg)](https://pypi.org/project/panclassif/)
+  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/panclassif)
+  - PanClassif: A machine learning classifier pipeline for TCGA pancancer classification.
 
 ###
 
