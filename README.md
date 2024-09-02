@@ -14,6 +14,20 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mrrobi&theme=dark&hide_border=true&exclude_days=Fri%2CSat&fire=EB5454" alt="GitHub Streak" /></a>
 </p>
 
+## My Top PyPI Projects
+
+  ### [Softwrdwrangler](https://pypi.org/project/softwrdwrangler/)
+  [![PyPI version](https://img.shields.io/pypi/v/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
+  [![Downloads](https://img.shields.io/pypi/dm/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
+  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/softwrdwrangler)
+  - a Python package designed to simplify and streamline operations on various AWS resources, primarily focusing on S3. It offers utilities for reading and writing different file formats and managing S3 objects efficiently..
+
+  ### [Panclassif](https://pypi.org/project/panclassif/)
+  [![PyPI version](https://img.shields.io/pypi/v/panclassif.svg)](https://pypi.org/project/panclassif/)
+  [![Downloads](https://img.shields.io/pypi/dm/panclassif.svg)](https://pypi.org/project/panclassif/)
+  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/panclassif)
+  - PanClassif: A machine learning classifier pipeline for TCGA pancancer classification.
+
 ## Things I know
 * Programming -> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
 * Web -> <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
@@ -93,19 +107,7 @@
  * Machine Learning <img src="https://img.icons8.com/ios/28/000000/machine-learning.png"/>
  * Gaming <img src="https://img.icons8.com/color/28/000000/razer.png"/>
 
-## My Top PyPI Projects
 
-  ### [Softwrdwrangler](https://pypi.org/project/softwrdwrangler/)
-  [![PyPI version](https://img.shields.io/pypi/v/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
-  [![Downloads](https://img.shields.io/pypi/dm/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
-  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/softwrdwrangler)
-  - a Python package designed to simplify and streamline operations on various AWS resources, primarily focusing on S3. It offers utilities for reading and writing different file formats and managing S3 objects efficiently..
-
-  ### [Panclassif](https://pypi.org/project/panclassif/)
-  [![PyPI version](https://img.shields.io/pypi/v/panclassif.svg)](https://pypi.org/project/panclassif/)
-  [![Downloads](https://img.shields.io/pypi/dm/panclassif.svg)](https://pypi.org/project/panclassif/)
-  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/panclassif)
-  - PanClassif: A machine learning classifier pipeline for TCGA pancancer classification.
 
 ###
 
