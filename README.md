@@ -10,9 +10,7 @@
     <br> 
   </div>
   
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mrrobi&theme=dark&hide_border=true&exclude_days=Fri%2CSat&fire=EB5454" alt="GitHub Streak" /></a>
-</p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Mrrobi&theme=highcontrast&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 ## My Top PyPI Projects
 
