@@ -16,7 +16,7 @@
 
   ### [Softwrdwrangler](https://pypi.org/project/softwrdwrangler/)
   [![PyPI version](https://img.shields.io/pypi/v/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
-  [![Downloads](https://img.shields.io/pypi/dm/softwrdwrangler.svg)](https://pypi.org/project/softwrdwrangler/)
+  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/softwrdwrangler?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/softwrdwrangler)
   ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/softwrdwrangler)
   - a Python package designed to simplify and streamline operations on various AWS resources, primarily focusing on S3. It offers utilities for reading and writing different file formats and managing S3 objects efficiently..
 
